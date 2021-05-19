@@ -6,13 +6,16 @@
 *Trello - flexible, and free way to organize plans, projects and more.*
 
 Create new cards instantly from anywhere with a Quick Add window. Get notified whenever there’s new activity in any of your Trello boards.
-To view more updates and develompent process please look at [trello cemetech thread](https://www.cemetech.net/forum/viewtopic.php?p=287215).
+To view more updates and develompent process please look at [trello's cemetech thread](https://www.cemetech.net/forum/viewtopic.php?p=287215).
 
 **Table of Contents**
 
-[TOC]
+* [Trello CE](#trello-ce)
+  * [Features](#features)
+  * [Keys](#keys)
+  * [Images/Concept Art](#images)
 
-##Features
+## Features
 - Backgrounds, Add and choose backgrounds when you create a board.
 - Cards,  Add as much cards as you need on board. 
 - Boards, Create an unlimited amount of boards (As much as the caluator memory can hold).
@@ -31,8 +34,7 @@ Current Version:
 
 ![](https://i.imgur.com/h7xtKYs.png)
 
-Future Updates:
-*Concept images*
+Future Updates: *Concept images*
 
 ![](https://i.imgur.com/lb1K0hT.png)![](https://i.imgur.com/KfWOCSN.png)![](https://i.imgur.com/dgED5bB.png)![](https://i.imgur.com/HhR4WF0.png)![](https://i.imgur.com/Kl8OJp4.png)
 

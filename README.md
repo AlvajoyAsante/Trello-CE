@@ -1,5 +1,6 @@
 # Trello-CE
 ![](https://i.imgur.com/xwQurN9.png)
+
 ![](https://img.shields.io/github/issues/Overload02/Trello-CE) ![](https://img.shields.io/github/release/Overload02/Trello-CE) ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Ftext%3DI%2520found%2520Trello%2520on%2520a%2520calculator%2521%253F%250ASupport%2520the%2520project%2520here%253A%2520https%253A%252F%252Fgithub.com%252FOverload02%252FTrello-CE)
 
 *Trello - flexible, and free way to organize plans, projects and more.*
@@ -27,10 +28,12 @@ To view more updates and develompent process please look at [trello cemetech thr
 
 ## Images
 Current Version:
+
 ![](https://i.imgur.com/h7xtKYs.png)
 
 Future Updates:
-* Concept images *
+*Concept images*
+
 ![](https://i.imgur.com/lb1K0hT.png)![](https://i.imgur.com/KfWOCSN.png)![](https://i.imgur.com/dgED5bB.png)![](https://i.imgur.com/HhR4WF0.png)![](https://i.imgur.com/Kl8OJp4.png)
 
 ------------

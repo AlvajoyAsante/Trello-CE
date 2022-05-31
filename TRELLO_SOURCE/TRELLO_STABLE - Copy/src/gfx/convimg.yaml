@@ -1,0 +1,50 @@
+palettes:
+  - name: palette
+    fixed-entries:
+      - color: {index: 0, r: 255, g: 0, b: 128}
+      - color: {index: 1, r: 0, g: 0, b: 0}
+      - color: {index: 2, r: 255, g: 255, b: 255}
+    images: automatic
+    
+converts:
+  - name: CURSOR
+    palette: palette
+    transparent-color-index: 0
+    compress: zx7
+    images:
+      - CURSOR/cursorA.png
+      - CURSOR/cursorB.png
+      
+  - name: MAIN_ICON
+    palette: palette
+    transparent-color-index: 0
+    compress: zx7
+    images:
+      - ICONS/MAIN/boards.png
+      - ICONS/MAIN/create.png
+      - ICONS/MAIN/help.png
+      - ICONS/MAIN/loading.png
+      - ICONS/MAIN/pin.png
+      - ICONS/MAIN/recent.png
+      - ICONS/MAIN/search.png
+      - ICONS/MAIN/settings.png
+      - ICONS/MAIN/cards.png
+      
+  - name: BOARD_ICON
+    palette: palette
+    transparent-color-index: 0
+    compress: zx7
+    images:
+      - ICONS/BOARD/arrow.png
+      - ICONS/BOARD/check.png
+      - ICONS/BOARD/close.png
+    
+outputs:
+  - type: c
+    include-file: PSSPT.h
+    palettes:
+      - palette
+    converts:
+      - CURSOR
+      - MAIN_ICON
+      - BOARD_ICON

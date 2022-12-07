@@ -40,4 +40,4 @@ Future Updates: *Concept images*
 
 ------------
 
-Copyright &copy; 2020 - 2022, Alvajoy Asante
+Copyright &copy; 2020 - 2022, ***Alvajoy Asante***
